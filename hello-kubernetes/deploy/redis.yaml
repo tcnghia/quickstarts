@@ -6,6 +6,6 @@ spec:
   type: state.redis
   metadata:
   - name: redisHost
-    value: YOUR_REDIS_HOST_HERE:6379
+    value: redis-master.default.svc.cluster.local:6379
   - name: redisPassword
-    value: YOUR_REDIS_KEY_HERE
+    value: 3m9scm6n8d
